@@ -1,0 +1,1 @@
+export emacs="emacs -nw"
